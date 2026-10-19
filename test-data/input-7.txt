@@ -1,0 +1,4 @@
+# Testing for secondary store being the next in line but is empty
+GT4500,2,0,0,0
+TORPEDO,SINGLE # firing primary
+TORPEDO,SINGLE # trying to fire secondary, but is empty
