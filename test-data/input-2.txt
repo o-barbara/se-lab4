@@ -1,0 +1,4 @@
+# Testing alternating firing on TORPEDO,SINGLE
+GT4500,1,0,1,0 # Creating new ship
+TORPEDO,SINGLE # Firing from primary store
+TORPEDO,SINGLE # Firing from secondary store
